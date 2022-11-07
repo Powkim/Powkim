@@ -25,6 +25,7 @@
  <img src=https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white/> 
   
   ### It's me
+  
 
   <a href="https://velog.io/@kjs0508"><img src="https://img.shields.io/badge/Velog-ffffff?style=flat-square&logo=Velog&link=https://velog.io/@kjs0508">
   
