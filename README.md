@@ -10,13 +10,14 @@
  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
  <br>
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logoColor=black">
- <img src="https://img.shields.io/badge/recoil-0075EB?style=for-the-badge&logoColor=black"> <img src="https://img.shields.io/badge/Axios-181717?style=for-the-badge&logo=Axios&logoColor=white">
+ <img src="https://img.shields.io/badge/recoil-0075EB?style=for-the-badge&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Axios-181717?style=for-the-badge&logo=Axios&logoColor=white">
 
  </div>
 <h3 align=center> I’m learning ...🌱</h3>
 
-<span  align=center >  <img src=(https://img.shields.io/badge/-ReactNative-222222?style=for-the-badge&logo=react)>
-<span  align=center >  <img src=(https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)>
+<span  align=center >  <img src=https://img.shields.io/badge/-ReactNative-222222?style=for-the-badge&logo=react>
+<span  align=center >  <img src=https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjs0508)](https://github.com//github-readme-stats)
 
 
