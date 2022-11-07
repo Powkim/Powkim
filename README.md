@@ -16,8 +16,8 @@
  </div>
 <h3> I’m learning ...🌱</h3>
 
-<span>![React](https://img.shields.io/badge/-ReactNative-222222?style=for-the-badge&logo=react)</span>
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<span  align=center >![React](https://img.shields.io/badge/-ReactNative-222222?style=for-the-badge&logo=react)</span>
+<span  align=center >![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)</span>
 
 
 
