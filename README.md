@@ -1,7 +1,7 @@
 
-
-<span align=center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</span>
-
+<div align=center
+<span >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</span>
+></div>
 <h3 align=center>My tech stack 📚</h3>
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
