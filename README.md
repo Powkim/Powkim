@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align=cente>My tech stack 📚</h3>
+<h3 align=center>My tech stack 📚</h3>
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
