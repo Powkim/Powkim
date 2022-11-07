@@ -17,7 +17,7 @@
 
 <span  align=center >![React](https://img.shields.io/badge/-ReactNative-222222?style=for-the-badge&logo=react)</span>
 <span  align=center >![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)</span>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/깃허브아이디/github-readme-stats)
 
 
 <!--
