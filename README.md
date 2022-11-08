@@ -30,7 +30,7 @@
   <a href="https://velog.io/@kjs0508"><img src="https://img.shields.io/badge/Velog-ffffff?style=flat-square&logo=Velog&link=https://velog.io/@kjs0508">
   
 ## Profile
-<!-- ### Education
+<!-- ### Education 
 2018.03 ~ : Catholic University, Media Technology Content & Computer Information Engineering -->
 
 ### Projects
