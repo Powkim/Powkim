@@ -4,8 +4,8 @@
 </div> -->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=I%20Like%20Error%20It%20Makes%20Me%20Develop&fontSize=50&fontColor=#ffff)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=&fontSize=50&fontColor=#ffff)
+<!-- I%20Like%20Error%20It%20Makes%20Me%20Develop -->
 <div align="center">
     <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Powkim&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=4"/></div>
