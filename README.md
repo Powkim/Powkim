@@ -4,43 +4,47 @@
 </div> -->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=&fontSize=50&fontColor=#ffff)
-<!-- I%20Like%20Error%20It%20Makes%20Me%20Develop -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&&text=Jisoo　kim&fontSize=60&fontColor=#ffff)
+
+## ✨  ABOUT ME ✨
+
+<br/>
+
+ 👩🏻‍💻 Front-End Developer<br>
+ 📝 Blog:https://velog.io/@kjs0508<br>
+📧 e-mail:kss0866@gmail.com
+<br/>
 <div align="center">
     <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Powkim&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=4"/></div>
+
   
   <br><br>
 <h3>
  Tech Stack📚</h3>
-
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logoColor=black"/><br/>
- <img src="https://img.shields.io/badge/recoil-0075EB?style=for-the-badge&logoColor=black"/>
   <img src="https://img.shields.io/badge/Axios-181717?style=for-the-badge&logo=Axios&logoColor=white"/> 
-  <img src=https://img.shields.io/badge/-ReactNative-222222?style=for-the-badge&logo=react/>
  <img src=https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white/> 
   
-  ### It's me
-  
+   ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=&fontSize=70)
 
-  <a href="https://velog.io/@kjs0508"><img src="https://img.shields.io/badge/Velog-ffffff?style=flat-square&logo=Velog&link=https://velog.io/@kjs0508">
+<!--  
   
 ## Profile
 <!-- ### Education 
 2018.03 ~ : Catholic University, Media Technology Content & Computer Information Engineering -->
 
-### Projects
+<!-- ### Projects
 ### 2022
 <span>- Client Developer  [Shark Overflow](http://pre-project.s3-website.ap-northeast-2.amazonaws.com/) : Stack Overflow Clone <br>
 <span>- Client Developer  [Note-pad]("") : 메모장 어플
   ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=&fontSize=70)
 </div>
 
-<!--
+
 **kjs0508/kjs0508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
